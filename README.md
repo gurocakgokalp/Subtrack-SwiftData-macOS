@@ -6,8 +6,8 @@
 
 Abonelik harcamalarınızı kolayca yönetmek için tasarlanmış modern ve kullanıcı dostu bir macOS uygulaması. 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/949f8cb5-9e20-49d6-b26a-4d643d58e6fb" width="450" alt="Dashboard"/>
-  <img src="https://github.com/user-attachments/assets/7dd8523b-1786-4553-8fc8-02173ca3475f" width="450" alt="Analytics"/>
+  <img src="https://github.com/user-attachments/assets/949f8cb5-9e20-49d6-b26a-4d643d58e6fb" width="400" alt="Dashboard"/>
+  <img src="https://github.com/user-attachments/assets/7dd8523b-1786-4553-8fc8-02173ca3475f" width="400" alt="Analytics"/>
 </p>
 
 <p align="center">
