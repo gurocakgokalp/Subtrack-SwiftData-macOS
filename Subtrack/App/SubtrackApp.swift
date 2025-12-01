@@ -12,7 +12,7 @@ import SwiftData
 struct SubtrackApp: App {
     var sharedModelContainer: ModelContainer = {
         let schema = Schema([
-            Item.self,
+            Subscription.self,
         ])
         let modelConfiguration = ModelConfiguration(schema: schema, isStoredInMemoryOnly: false)
 
@@ -26,7 +26,11 @@ struct SubtrackApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
-        }
+                .frame(minWidth: 1200, minHeight: 600)
+        }.windowResizability(.contentSize)
+        .commands {
+            SidebarCommands()
+        }.defaultSize(width: 1200, height: 700)
         .modelContainer(sharedModelContainer)
     }
 }

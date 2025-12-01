@@ -1,0 +1,36 @@
+{
+  "fill" : {
+    "automatic-gradient" : "display-p3:0.09813,0.05507,0.29770,1.00000"
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "image-name" : "ChatGPT Image 30 Kas 2025 23_09_15.png",
+          "name" : "ChatGPT Image 30 Kas 2025 23_09_15",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              9,
+              -5.186536906602441
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}
